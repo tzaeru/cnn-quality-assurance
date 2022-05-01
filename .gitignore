@@ -1,3 +1,12 @@
+# Original photos, uncropped and unscaled
+original-data
+# Some helper directories for processing the original data
+cropped-and-resized-data
+cropped-data
+# Generated model, a bit large to include
+model
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
